@@ -1,0 +1,58 @@
+{
+  "uid" : "a1fa0677bc0e804a",
+  "name" : "a test case_fullSreen",
+  "fullName" : "a test suite.a test case_fullSreen",
+  "historyId" : "9a63eb11ce0a8ae1489cac60deb328bb",
+  "time" : {
+    "start" : 1630316683206,
+    "stop" : 1630316688922,
+    "duration" : 5716
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "a test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "a test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "a test case_fullSreen"
+  }, {
+    "name" : "package",
+    "value" : "a test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.159"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a1fa0677bc0e804a.json",
+  "parameterValues" : [ "chrome-92.0.4515.159" ]
+}

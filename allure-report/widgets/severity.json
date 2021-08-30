@@ -1,0 +1,21 @@
+[ {
+  "uid" : "17e6ca96ef474994",
+  "name" : "a test case_ElemScroll",
+  "time" : {
+    "start" : 1630316688923,
+    "stop" : 1630316697324,
+    "duration" : 8401
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a1fa0677bc0e804a",
+  "name" : "a test case_fullSreen",
+  "time" : {
+    "start" : 1630316683206,
+    "stop" : 1630316688922,
+    "duration" : 5716
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

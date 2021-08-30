@@ -1,0 +1,35 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "a test suite",
+    "children" : [ {
+      "name" : "a test case_fullSreen",
+      "uid" : "a1fa0677bc0e804a",
+      "parentUid" : "2c274f635e82021c68bddaab364bd008",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630316683206,
+        "stop" : 1630316688922,
+        "duration" : 5716
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    }, {
+      "name" : "a test case_ElemScroll",
+      "uid" : "17e6ca96ef474994",
+      "parentUid" : "2c274f635e82021c68bddaab364bd008",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630316688923,
+        "stop" : 1630316697324,
+        "duration" : 8401
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.159" ]
+    } ],
+    "uid" : "2c274f635e82021c68bddaab364bd008"
+  } ]
+}

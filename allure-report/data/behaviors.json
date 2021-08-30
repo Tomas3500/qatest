@@ -1,0 +1,31 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "a test case_fullSreen",
+    "uid" : "a1fa0677bc0e804a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1630316683206,
+      "stop" : 1630316688922,
+      "duration" : 5716
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-92.0.4515.159" ]
+  }, {
+    "name" : "a test case_ElemScroll",
+    "uid" : "17e6ca96ef474994",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1630316688923,
+      "stop" : 1630316697324,
+      "duration" : 8401
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-92.0.4515.159" ]
+  } ]
+}
